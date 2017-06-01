@@ -8,10 +8,6 @@
 
 ![Alt text](./art/av_all.jpg)
 
-* 多屏幕,1/2处,可以看到字母自动缩小
-
-![Alt text](./art/av_mutil_middle.jpg)
-
 * 多屏幕,1/3处,可以看到字母自动缩小
 
 ![Alt text](./art/av_mutil_qual.jpg)
