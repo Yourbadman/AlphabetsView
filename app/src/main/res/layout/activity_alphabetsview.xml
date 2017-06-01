@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none"
+        android:scrollbars="none" />
+
+    <com.rocf.library.AlphabetsView
+        android:id="@+id/listSideIndex"
+        android:layout_width="@dimen/alphabets_view_width"
+        android:layout_height="fill_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="end"
+        android:gravity="right"
+        android:orientation="vertical" />
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AlphabetsView">
+        <attr name="maxOffset" format="dimension" />
+        <attr name="moveCount" format="integer" />
+        <attr name="popAnimTime" format="integer" />
+        <attr name="sectedBg" format="reference" />
+        <attr name="alphabetToastBg" format="reference" />
+        <attr name="toastOffset" format="dimension" />
+        <attr name="toastTextSize" format="dimension" />
+        <attr name="alphabetTextSize" format="dimension" />
+        <attr name="alphabetMaxOffset" format="dimension" />
+        <attr name="paddingTopBottom" format="dimension" />
+        <attr name="alphabetLeftMargin" format="dimension" />
+        <attr name="alphabetRightMargin" format="dimension" />
+        <attr name="sectedColors" format="reference" />
+    </declare-styleable>
+</resources>

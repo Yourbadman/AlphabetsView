@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="alphabets_view_default_color">#808080</color>
+    <color name="alphabets_view_enable_color">#404040</color>
+    <color name="alphabets_view_selected_color">#3386d3</color>
+    <color name="alphabets_view_toast_txt_color">#ffffffff</color>
+
+</resources>

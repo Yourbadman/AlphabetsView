@@ -1,0 +1,6 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected= "true" android:color="@color/alphabets_view_selected_color" />/>
+    <item android:state_enabled="false" android:color="@color/alphabets_view_default_color" />
+    <item android:color="@color/alphabets_view_enable_color" />
+</selector>
